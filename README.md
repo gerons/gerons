@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on SICAM
+- 🌱 I’m currently learning Docker
+
+  
 **Lenguajes y herramientas**
 
 <p align="center">
