@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,js,vim,vue" />
+    <img src="https://skillicons.dev/icons?i=git,docker,js,vue,astro,bootstrap,codepen,css,dart,discord,firebase,flutter,html,linux,mysql,nestjs,nodejs,npm,php,pinia,postgres,postman,pycharm,py,replit,sass,sqlite,tailwind,ts,ubuntu,vim,vscode,yarn" />
   </a>
 </p>
